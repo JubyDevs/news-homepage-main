@@ -31,12 +31,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/JubyDevs/news-homepage-main](https://github.com/JubyDevs/news-homepage-main)
+- Live Site URL: [https://jubydevs.github.io/news-homepage-main](https://jubydevs.github.io/news-homepage-main)
 
 ## My process
 
-I created this project using mobile-first workflow then adjusting my viewport to identify breakpoints and write css to correct the webpage 
+I created this project using mobile-first workflow then adjusting my viewport to identify breakpoints and write css @media query to correct the webpage 
 
 ### Built with
 
